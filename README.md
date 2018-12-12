@@ -1,6 +1,6 @@
 # My Resume
 
-[html.love](http://html.love)
+[高涛](https://gtnull.github.io/)
 
 <a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/ucdjQF7wcNNiWY9mCEpAeGLz/DIYgod/Resume'>
   <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/ucdjQF7wcNNiWY9mCEpAeGLz/DIYgod/Resume.svg' />
@@ -29,4 +29,4 @@ $ gulp
 
 ## LICENSE
 
-MIT © [DIYgod](http://github.com/DIYgod)
+MIT © [GTnull](https://gtnull.github.io/)
